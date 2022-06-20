@@ -1,0 +1,13 @@
+.flexContainerPrincipal {
+  background-color: rgb(127, 235, 233);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inicioFlexContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
